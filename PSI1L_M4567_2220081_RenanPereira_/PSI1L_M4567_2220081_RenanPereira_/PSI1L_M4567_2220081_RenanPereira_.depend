@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1622632251 source:c:\users\2220081\onedrive - escola digital\documentos\github\psi1l_m4567_2220081_renanpereira_\psi1l_m4567_2220081_renanpereira_\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<conio.c>
+
+1623840782 source:c:\users\2220081\onedrive - escola digital\psi1l_m4567_2220081_renanpereira_\psi1l_m4567_2220081_renanpereira_\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<conio.c>
+	<string.h>
+
+1624116588 source:c:\users\renan augusto\onedrive - escola digital\psi1l_m4567_2220081_renanpereira_\psi1l_m4567_2220081_renanpereira_\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<conio.c>
+	<string.h>
+
+1624397649 source:c:\users\renan augusto\desktop\psi1l_m4567_2220081_renanpereira_\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<conio.c>
+	<string.h>
+	<ctype.h>
+
+1624530198 source:c:\users\2220081\desktop\psi1l_m4567_2220081_renanpereira_\psi1l_m4567_2220081_renanpereira_\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<conio.c>
+	<string.h>
+	<ctype.h>
+
